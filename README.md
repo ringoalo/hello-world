@@ -1,2 +1,5 @@
 # hello-world
-Hogehoge repository
+
+Hi Friends!
+
+I like sukiyaki.
